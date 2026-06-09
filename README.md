@@ -9,6 +9,9 @@ A simple Complaint Management System built using Bash Shell Scripting.
 - Search Complaints
 - Update Complaint Status
 
+## New Feature
+
+Complaint Search Added
 ## Author
 
 Gaurav Kumar
